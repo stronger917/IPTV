@@ -10,7 +10,7 @@ on:
 
 jobs:
   bot:
-    runs-on: ubuntu-lastist
+    runs-on: ubuntu-latest
 
     steps:
       # 从仓库获取代码
